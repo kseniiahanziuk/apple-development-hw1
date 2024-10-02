@@ -10,4 +10,4 @@ executionTask2()
 executionTask3()
 
 // Task 4.
-
+executionTask4()

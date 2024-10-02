@@ -77,7 +77,6 @@ func executionTask3() {
     greatGrandChild2.addChild(gggChild)
 
     print("Tree depth: \(tree.calculateDepth())")
-    print("\n")
     
     print("Part 2.")
     let valueForDFS = 20
