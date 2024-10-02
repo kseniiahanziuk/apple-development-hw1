@@ -1,11 +1,13 @@
-//
-//  main.swift
-//  homework1
-//
-//  Created by Ксенія on 29.09.2024.
-//
-
 import Foundation
 
-print("Hello, World!")
+// Task 1.
+executionTask1()
+
+// Task 2.
+executionTask2()
+
+// Task 3.
+executionTask3()
+
+// Task 4.
 
